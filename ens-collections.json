@@ -1174,7 +1174,18 @@
 								"chat": "",
 								"logo": "dbz-characters.png",
 								"csv": ["dbz-characters.csv"]
-										}					
+										},
+								{
+								"name": "Malware Club",
+								"slug": "malware-club",
+								"description": "Most dangerous malicious softwares in cyber history",
+								"twitter": "",
+								"website": "",
+								"chat": "",
+								"logo": "dbz-characters.png",
+								"csv": ["malware-club.csv"]
+								}
+		
 				
    ]
 }
